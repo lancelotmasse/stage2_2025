@@ -1,0 +1,14 @@
+name: stage_2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - matplotlib
+  - pandas
+  - ipywidgets
+  - numpy
+  - seaborn
+  - jupyter
+  - windrose
+prefix: C:\Users\masl0012\AppData\Local\miniconda3\envs\stage_2
